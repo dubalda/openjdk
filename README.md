@@ -1,0 +1,2 @@
+# openjdk
+openjdk for tariff
