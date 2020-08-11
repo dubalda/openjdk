@@ -1,4 +1,4 @@
-FROM openjdk:11.0.7-jdk
+FROM openjdk:14.0.2-jdk-buster
 MAINTAINER dubalda
 WORKDIR /
 
