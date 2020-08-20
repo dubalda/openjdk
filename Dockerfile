@@ -2,6 +2,7 @@ FROM openjdk:14.0.2-jdk-buster
 MAINTAINER dubalda
 WORKDIR /
 
+ENV TZ Europe/Moscow
 ENV LANGUAGE C.UTF-8
 ENV LANG C.UTF-8
 ENV LC_ALL C.UTF-8
